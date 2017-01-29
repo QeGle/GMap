@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GMapTest</string>
+    <string name="title_activity_maps">GMap</string>
+    <string name="test">Test</string>
+    <string name="Random">Random</string>
+    <string name="GPS">GPS</string>
+    <string name="API">API</string>
+    <string name="EKB">EKB</string>
+    <string name="network">Network</string>
+
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+</resources>
